@@ -1,0 +1,35 @@
+{
+    "tasks": [
+        {
+            "type": "cppbuild",
+            "label": "C/C++: Latitude arquivo de build ativo",
+            "command": "c:\\Users\\Latitude",
+            "args": [
+                "-fdiagnostics-color=always",
+                "-g",
+                "${file}",
+                "-o",
+                "${fileDirname}\\${fileBasenameNoExtension}.exe",
+                "E5470\\Downloads\\Codígos",
+                "Feitos\\#",
+                "Criando",
+                "uma",
+                "lista",
+                "de",
+                "pessoas.py"
+            ],
+            "options": {
+                "cwd": "c:\\Users"
+            },
+            "problemMatcher": [
+                "$gcc"
+            ],
+            "group": {
+                "kind": "build",
+                "isDefault": true
+            },
+            "detail": "Tarefa gerada pelo Depurador."
+        }
+    ],
+    "version": "2.0.0"
+}
